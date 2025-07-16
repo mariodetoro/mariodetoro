@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm passionate about rocketry, aerodynamics, and simulations.  <br>🎯 My main goal is to learn, develop, and share as much as I can in these fields.  <br>🏠 Currently working at the Laboratorio de Experimentación en Espacio y Microgravedad (LEEM) rocketry association as a designer and modeler.  <br>💻 I enjoy coding numerical algorithms and building simulations, mostly in Python and MATLAB.  <br>📏 For modeling and drafting, I use CATIA.</p>
+<p align="left">📚 I'm passionate about rocketry, aerodynamics, and simulations.  <br>🎯 My main goal is to learn, develop, and share as much as I can in these fields.  <br>🏠 Working at the Laboratorio de Experimentación en Espacio y Microgravedad (LEEM) rocketry association as a designer and modeler.  <br>💻 I enjoy coding numerical algorithms and building simulations, mostly in Python and MATLAB.  <br>📏 For modeling and drafting, I use CATIA.</p>
 
 ###
 
