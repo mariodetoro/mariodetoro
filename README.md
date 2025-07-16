@@ -34,8 +34,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/mariodetoro/mariodetoro/output/snake.svg" alt="Snake animation" />
-
-###
